@@ -42,7 +42,3 @@ The API supports the following operations for complete recipe management:
 | **Delete** | `DELETE` | `/api/recipes/:id` | Remove a recipe from the database. |
 
 ---
-
-   ```bash
-   git clone [https://github.com/yourusername/recipe-crud-api.git](https://github.com/yourusername/recipe-crud-api.git)
-   cd recipe-crud-api
